@@ -2,3 +2,4 @@ pytest
 pylint
 click 
 pytest-cov
+black
